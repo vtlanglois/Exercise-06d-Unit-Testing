@@ -1,6 +1,6 @@
-# Exercise-06b-Unit-Testing
+# Exercise-06d-Unit-Testing
 
-Exercise for MSCH-C220, 16 November 2021
+Exercise for MSCH-C220, 18 November 2021
 
 A simple example of Unit Testing, using GUT. Implements (and auto-runs) the test_example.gd suite. 2 tests should pass, and 3 should fail.
 
